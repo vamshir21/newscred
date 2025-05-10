@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+nltk
+flask
+beautifulsoup4
+requests
+joblib
+newspaper3k
+lxml # Good to have explicitly, newspaper3k depends on it
+sumy
+google-cloud-vision
