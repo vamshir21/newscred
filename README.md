@@ -1,4 +1,4 @@
-# newscred
+# Newscred
 # NewsCred+: Cloud-Powered Fake News Detection and Credibility Scoring System
 
 ## 🚀 Project Overview
